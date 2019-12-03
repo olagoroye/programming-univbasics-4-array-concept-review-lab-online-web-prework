@@ -10,18 +10,18 @@ end
   end
 end
 
-def find_max_value(array)
+# def find_max_value(array)
   
-  counter = 0 
-  while counter < array.length do 
-    if array[counter] >= array.max
-      return counter
-    end
+#   counter = 0 
+#   while counter < array.length do 
+#     if array[counter] >= array.max
+#       return counter
+#     end
     
-    counter += 1 
+#     counter += 1 
   
-end
-end
+# end
+# end
 
 def find_min_value(array)
 x = array[0]
