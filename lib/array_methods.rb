@@ -10,4 +10,19 @@ end
   end
 end
 
+def find_max_value(array)
+  
+  counter = 0 
+  while counter < array.length do 
+    if array[index] > counter
+      counter = array[index]
+      return counter
+    end
+    
+    counter += 1 
+  
+end
+
+end
+
 
