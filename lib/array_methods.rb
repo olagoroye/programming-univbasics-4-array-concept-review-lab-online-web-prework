@@ -13,8 +13,8 @@ end
 def find_max_value(array)
   
   counter = 0 
-  while counter < array.length do
-    array.max.by
+  while counter < array.max do
+    array.max
   
   
 end
