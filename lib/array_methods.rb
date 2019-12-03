@@ -23,4 +23,9 @@ def find_max_value(array)
 end
 end
 
-find_min_value(array)
+def find_min_value(array)
+x = array[0]
+
+
+
+end
