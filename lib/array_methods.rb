@@ -15,7 +15,7 @@ end
 #   counter = 0 
 #   while counter < array.length do 
 #     if array[index] > counter
-#       return counter
+#       counter = array[index]
 #     end
     
 #     counter += 1 
