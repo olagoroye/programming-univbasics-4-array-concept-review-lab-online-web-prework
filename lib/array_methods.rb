@@ -13,10 +13,12 @@ end
 def find_max_value(array)
   
   counter = 0 
-  array.length.times do |index|
+  array.length.times { |index|
     if array[index] > counter
       counter = array[index]
     end
+    
+  }
     counter
 end
 
