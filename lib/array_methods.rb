@@ -22,6 +22,6 @@ def find_max_value(array)
     counter
 end
 
-end
+
 
 
