@@ -14,7 +14,7 @@ end
   
 #   counter = 0 
 #   while counter < array.length do 
-#     if array[counter] > index
+#     if array[index] > counter
 #       return counter
 #     end
     
